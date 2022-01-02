@@ -1,5 +1,5 @@
 - 👋 Hey fellow developers! I am Dylan, 22 years old and based in the Netherlands!
-- 👀 I am a Full-stack JavaScript Developer
+- 👀 I am a JavaScript Developer
 - 🌱 At this moment I am learning everything the beautiful language JavaScript has to offer!
 - 💞️ Planning to work on a startup company
 - 📫 You can reach me via email:
