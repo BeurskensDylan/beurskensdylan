@@ -1,4 +1,4 @@
 - 👋 Hey fellow developers! I am Yunoku, 22 years old and based in the Netherlands!
-- 👀 I am a JavaScript Developer
-- 🌱 At this moment I am learning everything the beautiful language JavaScript has to offer!
+- 👀 I am a Software Developer
+- 🌱 At this moment I am learning JavaScript and the beautiful Flutter framework!
 - 📫 You can reach me using my website, it's in my profile!
