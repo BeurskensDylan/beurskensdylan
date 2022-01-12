@@ -1,4 +1,5 @@
-- 👋 Hey fellow developers! I am Yunoku, 22 years old and based in the Netherlands!
+- 👋 Hey fellow developers! I am Dylan, 22 years old and based in the Netherlands!
 - 👀 I am a Software Developer
 - 🌱 At this moment I am learning JavaScript and the beautiful Flutter framework!
-- 📫 You can reach me using my website, it's in my profile!
+- 📫 Email: info@dylanbeurskens.com
+
