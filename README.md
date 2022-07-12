@@ -1,5 +1,5 @@
 - 👋 Hey fellow developers! I am Dylan, 22 years old and based in the Netherlands!
-- 👀 I am a Front-end Developer
-- 🌱 JavaScript all the way! Learning React!
+- 👀 I am a Software Engineer
+- 🌱 Learning React and NextJS.
 -  📫 Email: info@dylanbeurskens.com
 
